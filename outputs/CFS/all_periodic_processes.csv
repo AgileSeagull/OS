@@ -1,0 +1,8 @@
+Metric,Value
+Average Turnaround Time,8.88
+Average Waiting Time,7.38
+Average Response Time,2.12
+Throughput,0.36
+Fairness Index,0.52
+Starvation Count,0
+Load Balancing Efficiency,0.50
